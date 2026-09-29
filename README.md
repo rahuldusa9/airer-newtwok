@@ -237,10 +237,6 @@ When you tell one character something, it can organically spread:
 
 ---
 
-## 📄 License
-
-MIT
-
 ---
 
 <div align="center">
